@@ -1,5 +1,5 @@
 # BI-Solution-For-Bukalapak
-Build BI solution study case in bukalapak.  given 2.4 data transaction.  design datawarehouse, and build pipline ETL transformation using PDI. last we build dashboard for BI Solution. <br>
+Building BI solution study case in bukalapak.  given 2.4 data transaction.  design datawarehouse, and build pipeline ETL transformation using PDI, then we build dashboard for BI Solution. <br>
 Dataset <br>
 ![Dataset](https://1.bp.blogspot.com/-o4Jc-v3hQ-Y/XrKrv194rOI/AAAAAAAABAY/xczG7J25jxwhTIZiBdE8BYNWCaEq62DIgCLcBGAsYHQ/s320/datase.png)
 <br> <b>Skema datawarehouse </b><br>
